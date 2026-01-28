@@ -1,4 +1,4 @@
-# Sea_ice_school_2026-modeling
+# Saroma sea ice school 2026 - modeling tutorials
 Here we elaborate and store the tutorials on modeling for the Saroma sea ice school 2026. Three different Jupyter notebooks are made available to the students, with a Binder laucher to run the notebooks.
 
 Three different notebooks are included here:
