@@ -9,7 +9,7 @@ dependencies:
   - pip
   - bokeh
   - cartopy
-  - xarray==2024.1.0
+  - xarray==2025.1.0
   - cftime==1.6.3
   - intake==2.0.8
   - intake-esm=2021.8.17
