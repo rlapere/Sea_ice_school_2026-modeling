@@ -9,9 +9,9 @@ dependencies:
   - pip
   - bokeh
   - cartopy
-  - xarray
-  - cftime
-  - intake
+  - xarray==2024.1.0
+  - cftime==1.6.3
+  - intake==2.0.8
   - intake-esm=2021.8.17
   - intake-xarray=0.6.0
   - jupyterlab
