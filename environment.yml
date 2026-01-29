@@ -5,37 +5,38 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyterlab
-  - pip
   - python=3.9.7
+  - pip
+  - bokeh
+  - cartopy
+  - xarray
+  - cftime
+  - intake
+  - intake-esm=2021.8.17
+  - intake-xarray=0.6.0
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - matplotlib=3.4.3
+  - numpy=1.20.3
+  - pandas=1.3.4
+  - pyviz_comms=2.2.1
+  - scipy=1.7.1
+  - seaborn=0.11.2
   - pip:
     - aiohttp==3.8.1
     - aioitertools==0.10.0
     - aiosignal==1.2.0
-    - attrs==25.4.0
-    - bokeh==3.4.3
-    - cartopy==0.23.0
-    - cdsapi==0.7.7
-    - cftime==1.6.3
-    - dask==2024.1.0
-    - ecmwf-datastores-client==0.4.2
+    - cdsapi==0.5.1
+    - dask==2022.5.0
+    - fsspec==2022.3.0
+    - gcsfs==2022.3.0
     - haversine==2.7.0
-    - holoviews==1.20.2
-    - hvplot==0.11.3
-    - intake==2.0.8
-    - intake-esm==2023.11.10
-    - intake-xarray==2.0.0
-    - markdown-it-py==3.0.0
-    - matplotlib==3.9.4
+    - holoviews==1.15.3
+    - hvplot==0.8.2
+    - nc-time-axis==1.4.1
     - netcdf4==1.5.8
-    - numpy==1.23.0
-    - pandas==2.3.3
+    - panel==0.14.2
     - pangeo-forge-recipes==0.8.3
-    - proplot==0.9.7
-    - pygrib==2.1.4
     - pyhdf==0.10.5
-    - pymannkendall==1.4.3
-    - pyviz-comms==2.2.1
-    - scipy==1.11.1
-    - seaborn==0.13.2
-    - xarray==2024.1.0
+    - pymannkendall==1.4.2
+    - zarr==2.11.3
