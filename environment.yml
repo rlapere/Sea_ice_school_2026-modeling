@@ -6,9 +6,8 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
-  - pip=21.2.4
+  - pip
   - python=3.9.7
-  - pyviz_comms=2.2.1
   - pip:
     - aiohttp==3.8.1
     - aioitertools==0.10.0
@@ -27,7 +26,7 @@ dependencies:
     - intake-esm==2023.11.10
     - intake-xarray==2.0.0
     - markdown-it-py==3.0.0
-    - matplotlib
+    - matplotlib==3.9.4
     - netcdf4==1.5.8
     - numpy==1.23.0
     - pandas==2.3.3
@@ -36,12 +35,7 @@ dependencies:
     - pygrib==2.1.4
     - pyhdf==0.10.5
     - pymannkendall==1.4.3
-    - pyproj==3.5.0
     - pyviz-comms==2.2.1
-    - rasterio==1.4.3
     - scipy==1.11.1
     - seaborn==0.13.2
-    - shapely==2.0.6
     - xarray==2024.1.0
-    - zarr==2.18.2
-
