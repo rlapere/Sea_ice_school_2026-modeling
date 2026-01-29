@@ -27,7 +27,7 @@ dependencies:
     - intake-esm==2023.11.10
     - intake-xarray==2.0.0
     - markdown-it-py==3.0.0
-    - matplotlib==3.9.4
+    - matplotlib
     - netcdf4==1.5.8
     - numpy==1.23.0
     - pandas==2.3.3
