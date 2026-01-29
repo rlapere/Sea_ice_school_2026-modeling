@@ -16,7 +16,7 @@ dependencies:
   - intake-xarray=0.6.0
   - jupyterlab
   - jupyterlab_code_formatter
-  - matplotlib=3.5.3
+  - matplotlib=3.8.0
   - numpy=1.26.4
   - pandas=2.3.3
   - pyviz_comms=2.2.1
