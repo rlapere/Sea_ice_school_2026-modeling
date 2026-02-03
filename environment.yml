@@ -9,7 +9,6 @@ dependencies:
   - pip
   - bokeh
   - cartopy
-  - xarray
   - cftime
   - intake
   - intake-esm=2021.8.17
@@ -42,4 +41,5 @@ dependencies:
     - pyhdf==0.10.5
     - pymannkendall==1.4.2
     - python-vlc==3.0.18121
+    - xarray==2024.1.0
     - zarr==2.11.3
