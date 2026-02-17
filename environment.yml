@@ -22,6 +22,7 @@ dependencies:
   - pyviz_comms=2.2.1
   - scipy=1.7.1
   - seaborn=0.11.2
+  - scikit-learn=1.0.2
   - pip:
     - aiohttp==3.8.1
     - aioitertools==0.10.0
