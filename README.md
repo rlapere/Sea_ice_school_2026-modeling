@@ -4,5 +4,5 @@ Here we elaborate and store the tutorials on modeling for the Saroma sea ice sch
 Three different notebooks are included here:
 - [general.ipynb](general.ipynb) contains basic examples and tips for climate data retrieval and plotting [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlapere/Sea_ice_school_2026-modeling/HEAD?urlpath=%2Fdoc%2Ftree%2Fgeneral.ipynb)
 - [beginners.ipynb](beginners.ipynb) is designed for students with less experience in coding and/or notebooks
-- [statistical_analysis.ipynb](statistical_analysis.ipynb) contains examples of typical statistical analysis useful for climate data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlapere/Sea_ice_school_2026-modeling/HEAD?urlpath=%2Fdoc%2Ftree%2Fstatistical_analysis.ipynb)
+- [statistical_analysis.ipynb](statistical_analysis.ipynb) contains examples of statistical analysis useful for climate data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlapere/Sea_ice_school_2026-modeling/HEAD?urlpath=%2Fdoc%2Ftree%2Fstatistical_analysis.ipynb)
 
